@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Gustavo 👋
 
-<!--
-**GustavoGarcia-star/GustavoGarcia-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer focusing on data extraction, processing, and automation. This is my professional GitHub account dedicated to regulatory and statistical data projects. 
 
-Here are some ideas to get you started:
+*(For my personal projects and learning, check out my other account).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I do
+- **Data Engineering:** Building automated pipelines for data cleaning and transformation.
+- **Web Scraping & Extraction:** Extracting structured data using Playwright and Beautiful Soup.
+- **Reporting Automation:** Generating automated PDFs, presentations, and statistical visualizations (e.g., using Matplotlib and SVG).
+- **Web Prototypes:** Deploying internal web interfaces and tools.
+
+## 💻 Tech Stack & Tools
+- **Languages:** Python, JavaScript, Java, C
+- **Infrastructure & OS:** Red Hat Enterprise Linux (RHEL), Docker, Podman, SSH
+- **Data & Automation:** Playwright, Pandas, Matplotlib
